@@ -22,3 +22,7 @@ In this lab, I worked on finding hidden API documentation and using an exposed A
 7. I checked the website header and saw that the lab was solved.
 
 ![Lab solved notification](sreenshots/Screenshot%202026-08-16%20172616.png)
+
+---
+
+[Next: Lab 2 Writeup](../lab2/README.md)

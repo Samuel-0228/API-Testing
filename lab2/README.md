@@ -39,3 +39,7 @@ In this lab, I worked on discovering an hidden API method on an endpoint, changi
 9. I added the jacket to my cart for $0.00 and clicked checkout. The order went through successfully and I solved the lab.
 
 ![Checkout completed and lab solved](screenshots/Screenshot%202026-08-16%20192111.png)
+
+---
+
+[Next: Lab 3 Writeup](../lab3/README.md)

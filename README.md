@@ -1,4 +1,6 @@
 # PortSwigger API Testing Writeups
+By samuel
+CTC-116-26
 
 ## Overview
 In this project, I worked on studying and completing the API testing labs from PortSwigger Web Security Academy ([PortSwigger API Testing](https://portswigger.net/web-security/api-testing)).
